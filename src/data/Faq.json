@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What types of bills can I pay through this platform?",
+        "answer": "You can pay government fees, electricity bills, water bills, gas bills, internet, and phone bills."
+    },
+    {
+        "question": "Is there any extra charge for bill payment?",
+        "answer": "Most payments are free, but some services may include a small transaction fee."
+    },
+    {
+        "question": "How long does it take for my payment to process?",
+        "answer": "Payments are typically processed instantly, but it may take up to 24 hours depending on the service provider."
+    },
+    {
+        "question": "Can I get a receipt after payment?",
+        "answer": "Yes, a digital receipt will be provided immediately after your transaction is successful."
+    },
+    {
+        "question": "Is it safe to pay bills through this platform?",
+        "answer": "Yes, our platform uses industry-standard encryption and secure payment gateways to protect your data."
+    }
+]

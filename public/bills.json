@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bill_007",
+    "bill_type": "electricity",
+    "icon": "https://example.com/icons/electricity.png",
+    "organization": "PDB",
+    "amount": 980,
+    "due_date": "2025-05-16"
+  },
+  {
+    "id": "bill_008",
+    "bill_type": "gas",
+    "icon": "https://example.com/icons/gas.png",
+    "organization": "Bakhrabad Gas",
+    "amount": 880,
+    "due_date": "2025-05-19"
+  },
+  {
+    "id": "bill_009",
+    "bill_type": "internet",
+    "icon": "https://example.com/icons/internet.png",
+    "organization": "Banglalion",
+    "amount": 1300,
+    "due_date": "2025-05-23"
+  },
+  {
+    "id": "bill_010",
+    "bill_type": "water",
+    "icon": "https://example.com/icons/water.png",
+    "organization": "Chattogram WASA",
+    "amount": 450,
+    "due_date": "2025-05-26"
+  },
+  {
+    "id": "bill_011",
+    "bill_type": "credit card",
+    "icon": "https://example.com/icons/creditcard.png",
+    "organization": "DBBL",
+    "amount": 3700,
+    "due_date": "2025-05-29"
+  },
+  {
+    "id": "bill_012",
+    "bill_type": "tuition",
+    "icon": "https://example.com/icons/tuition.png",
+    "organization": "North South University",
+    "amount": 25000,
+    "due_date": "2025-06-03"
+  },
+  {
+    "id": "bill_013",
+    "bill_type": "electricity",
+    "icon": "https://example.com/icons/electricity.png",
+    "organization": "NESCO",
+    "amount": 1100,
+    "due_date": "2025-05-17"
+  },
+  {
+    "id": "bill_014",
+    "bill_type": "gas",
+    "icon": "https://example.com/icons/gas.png",
+    "organization": "Jalalabad Gas",
+    "amount": 730,
+    "due_date": "2025-05-21"
+  },
+  {
+    "id": "bill_015",
+    "bill_type": "internet",
+    "icon": "https://example.com/icons/internet.png",
+    "organization": "AmberIT",
+    "amount": 1000,
+    "due_date": "2025-05-27"
+  },
+  {
+    "id": "bill_016",
+    "bill_type": "tuition",
+    "icon": "https://example.com/icons/tuition.png",
+    "organization": "Independent University",
+    "amount": 21000,
+    "due_date": "2025-06-05"
+  }
+]
