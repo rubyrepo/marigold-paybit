@@ -24,7 +24,3 @@
 * **HTML/CSS:** Standard web technologies
 
 ---
-
-## 📂 Project Structure
-
-*(You can add a section here showing your project's directory structure, e.g., with a tree command output or a simple list of main folders)*
